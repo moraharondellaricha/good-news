@@ -1,1 +1,0 @@
-// OneSignalSDKUpdaterWorker placeholder
